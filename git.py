@@ -17,3 +17,4 @@ print("Multiplicaton is",mul);
 
 name=str(input("Enter your name:"));
 print(name);
+print("Hellow")
